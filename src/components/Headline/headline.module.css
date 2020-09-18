@@ -1,0 +1,17 @@
+.container{
+    padding: 0px 15px;
+    margin: 0 auto;
+} 
+@media (min-width: 1200px) {
+    .container {
+        width: 1210px;
+    }
+}
+.back{
+    width: 1000px;
+    height: 443px;
+    background: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    box-sizing: border-box;
+    border-radius: 0px 0px 6px 6px;
+}

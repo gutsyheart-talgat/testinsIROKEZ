@@ -1,0 +1,45 @@
+.allblock{
+    margin-top: 46px;
+}
+.title{
+    display: flex;
+    align-items: center;
+    width: 175px;
+    height: 36px;
+}
+.titleP{
+    padding-left: 7px;
+    margin-right: 10px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #1D1C1D;
+}
+.titleFoto{
+    width: 24px;
+    height: 24px;
+}
+.blocks{
+    display: flex;
+    align-items: center;
+}
+.foto{
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;
+    margin-right: 10px;
+}
+.p{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #1D1C1D;
+}

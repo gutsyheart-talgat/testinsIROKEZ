@@ -1,0 +1,11 @@
+.back{
+    width: 958px;
+    height: 275px;
+    margin-left: 21px;
+    margin-top: 10px;
+    background: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    box-sizing: border-box;
+    border-radius: 6px;
+    display: flex;
+}

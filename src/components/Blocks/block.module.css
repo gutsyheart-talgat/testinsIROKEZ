@@ -1,0 +1,225 @@
+.allBlock{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin-left: 15px;  
+    margin-top: 20px;
+}
+.block1{
+    width: 320px;
+    height: 280px;
+    border-radius: 6px;
+    background: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    box-sizing: border-box;
+}
+.header{
+    height: 40px;
+    background: #F5F5F5;
+    border: 1px solid #DDDDDD;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+.main{
+    height: 200px;
+    box-sizing: border-box;
+}
+footer{
+    height: 40px;
+    border: 1px solid #DDDDDD;
+    box-sizing: border-box;
+}
+.headerP{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: justify;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #1D1C1D;
+    padding-left: 21px;
+    margin-right: 10px;
+}
+.headerCount{
+    width: 21px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FF0F00;
+    border-radius: 6px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.38px;
+    color: #FFFFFF;
+}
+.footerP{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: justify;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #FF4C00;
+    padding-left: 22px;
+}
+.img{
+    background: linear-gradient(0deg, #000000, #000000);
+    background-blend-mode: color, normal;
+    opacity: 0.3;
+    margin-top: 50px;
+    margin-left: 136px;
+}
+.P{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.38px;
+    color: #616061;
+    margin-top: 7px;
+}
+.calendar{
+    width: 40px;
+    height: 40px;
+    background: #FFFFFF;
+    
+    border-radius: 8px;
+    padding-top: 34px;
+    padding-left: 141px;
+    margin: 0%;
+}
+.calendarHead{
+    height: 13px;
+    background: #DE2F2F;
+    border-radius: 8px 8px 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 11px;
+    line-height: 13px;
+    text-align: center;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.calendarMain{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #1D1C1D;
+}
+.time{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #616061;
+    padding-top: 10px;
+    margin: 0%;
+}
+.present{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #000000;
+    padding-top: 26px;
+    padding-left: 44px;
+    margin: 0%;
+}
+.sms{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    color: #1D1C1D;
+    text-align: center;
+    padding-top: 59px;
+}
+.btn{
+    border: none;
+    background: #FFEEE6;
+    border-radius: 6px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 125%;
+    text-align: center;
+    color: #FF4C00;
+}
+.span{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #1D1C1D;
+}
+.text{
+    margin-top: 8px;
+    text-align: center;
+}
+.circle1{
+    display: flex;
+    margin-top: 58px;
+    margin-left: 149px;
+}
+.circle2{
+    display: flex;
+    margin-top: 34px;
+    margin-left: 149px;
+}
+.circle3{
+    display: flex;
+    margin-top: 51px;
+    margin-left: 149px;
+}
+.orCircle{
+    width: 6px;
+    height: 6px;
+    background: #FF4C00;
+    border-radius: 100%;
+    margin-right: 10px;
+}
+.whCircle{
+    width: 6px;
+    height: 6px;
+    background: #DDDDDD;
+    border-radius: 100%;
+}
